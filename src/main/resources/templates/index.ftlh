@@ -9,12 +9,10 @@
     <link rel="stylesheet" href="/css/style.css">
     <link rel="icon" type="image/png" href="/images/favicon.png">
 </head>
-<body style="background-image: url(https://source.unsplash.com/RFHFV7lVQBY/1600x900);">
+<body style="backround-image: url(IMG-1${obrazek}.JPG)";>
+
 <h1>Citat dne: ${citaty}</h1>
 <div>
-    <img class = "image" src="IMG_00035-${obrazek1}">
-    <img class = "image" src ="IMG_00087-${obrazek2}">
-
 </div>
 
 
